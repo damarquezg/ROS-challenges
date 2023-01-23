@@ -60,3 +60,7 @@ this:
     [FATAL] [1551733775.912321155]: Too far from the goal!
 
 Code quality and programing best practices are also important.
+
+An example result can be seen here:
+https://youtu.be/F2pNoa-9_Lo
+
